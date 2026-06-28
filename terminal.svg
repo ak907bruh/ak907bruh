@@ -1,1 +1,54 @@
-<object data="https://ak907bruh.github.io/terminal.svg" type="image/svg+xml" width="800" height="580"></object>
+<svg width="800" height="580" viewBox="0 0 800 580" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Logan Thompson — Terminal Profile</title>
+  <desc>Animated terminal boot sequence for Logan Thompson, Regional Quality Manager &amp; Software Engineer</desc>
+  <defs>
+    <pattern id="scan" x="0" y="0" width="800" height="3" patternUnits="userSpaceOnUse">
+      <rect width="800" height="1" fill="#000" opacity="0.07"/>
+    </pattern>
+    <style>
+      @keyframes in { from { opacity:0 } to { opacity:1 } }
+      @keyframes blink { 0%,49%{ opacity:1 } 50%,100%{ opacity:0 } }
+      .l0 { animation: in .5s 0.3s both } .l1 { animation: in .4s 0.9s both }
+      .l2 { animation: in .4s 1.3s both } .l3 { animation: in .4s 1.9s both }
+      .l4 { animation: in .4s 2.3s both } .l5 { animation: in .4s 2.6s both }
+      .l6 { animation: in .4s 2.9s both } .l7 { animation: in .4s 3.2s both }
+      .l8 { animation: in .4s 3.5s both } .l9 { animation: in .4s 4.0s both }
+      .l10 { animation: in .4s 4.4s both } .l11 { animation: in .4s 4.9s both }
+      .l12 { animation: in .4s 5.3s both } .l13 { animation: in .4s 5.6s both }
+      .l14 { animation: in .4s 6.1s both } .l15 { animation: in .4s 6.4s both }
+      .l16 { animation: in .4s 6.7s both } .l17 { animation: in .4s 7.0s both }
+      .l18 { animation: in .4s 7.4s both } .cur { animation: blink .9s 7.8s infinite }
+    </style>
+  </defs>
+  <rect width="800" height="580" rx="10" fill="#0d1117"/>
+  <rect width="800" height="38" rx="10" fill="#161b22"/>
+  <circle cx="22" cy="19" r="6" fill="#ff5f57"/>
+  <circle cx="42" cy="19" r="6" fill="#ffbd2e"/>
+  <circle cx="62" cy="19" r="6" fill="#28c840"/>
+  <text x="400" y="24" text-anchor="middle" fill="#8b949e" font-size="12" font-family="'Courier New',Courier,monospace">logan@trigo: ~</text>
+  <line x1="0" y1="38" x2="800" y2="38" stroke="#21262d" stroke-width="1"/>
+  <g class="l0">
+    <rect x="20" y="50" width="760" height="52" fill="none" stroke="#30363d" stroke-width="1" rx="3"/>
+    <text x="400" y="76" text-anchor="middle" fill="#e6edf3" font-size="20" font-weight="bold" font-family="'Courier New',Courier,monospace" letter-spacing="7">LOGAN THOMPSON</text>
+    <text x="400" y="95" text-anchor="middle" fill="#8b949e" font-size="11" font-family="'Courier New',Courier,monospace" letter-spacing="2">QUALITY MANAGER  ·  SOFTWARE ENGINEER  ·  CHULA VISTA, CA  ·  2026</text>
+  </g>
+  <g class="l1"><text x="30" y="132" font-family="'Courier New',Courier,monospace" font-size="13"><tspan fill="#3fb950">$</tspan><tspan fill="#e6edf3"> whoami</tspan></text></g>
+  <g class="l2"><text x="30" y="152" fill="#79c0ff" font-family="'Courier New',Courier,monospace" font-size="13">Regional Quality Manager @ TRIGO ADR | Automation Enthusiast</text></g>
+  <g class="l3"><text x="30" y="186" font-family="'Courier New',Courier,monospace" font-size="13"><tspan fill="#3fb950">$</tspan><tspan fill="#e6edf3"> cat .profile</tspan></text></g>
+  <g class="l4"><text x="30" y="206" font-family="'Courier New',Courier,monospace" font-size="13"><tspan fill="#ffa657">role      </tspan><tspan fill="#8b949e">= </tspan><tspan fill="#e6edf3">Quality Manager / Software Engineer</tspan></text></g>
+  <g class="l5"><text x="30" y="224" font-family="'Courier New',Courier,monospace" font-size="13"><tspan fill="#ffa657">focus     </tspan><tspan fill="#8b949e">= </tspan><tspan fill="#e6edf3">Quality Systems, Inspection, Workflow Automation</tspan></text></g>
+  <g class="l6"><text x="30" y="242" font-family="'Courier New',Courier,monospace" font-size="13"><tspan fill="#ffa657">standards </tspan><tspan fill="#8b949e">= </tspan><tspan fill="#e6edf3">IPC-600, IPC-A-610, AS9102</tspan></text></g>
+  <g class="l7"><text x="30" y="260" font-family="'Courier New',Courier,monospace" font-size="13"><tspan fill="#ffa657">stack     </tspan><tspan fill="#8b949e">= </tspan><tspan fill="#e6edf3">Python, LLM Integration, UI Automation</tspan></text></g>
+  <g class="l9"><text x="30" y="312" font-family="'Courier New',Courier,monospace" font-size="13"><tspan fill="#3fb950">$</tspan><tspan fill="#e6edf3"> ls ~/projects/automation/</tspan></text></g>
+  <g class="l10"><text x="30" y="332" fill="#a5d6ff" font-family="'Courier New',Courier,monospace" font-size="13">trigoscope_ukg_sync/  quality_notifications_parser/  root_cause_analyzer/</text></g>
+  <g class="l11"><text x="30" y="366" font-family="'Courier New',Courier,monospace" font-size="13"><tspan fill="#3fb950">$</tspan><tspan fill="#e6edf3"> git log --oneline --main</tspan></text></g>
+  <g class="l12"><text x="30" y="386" font-family="'Courier New',Courier,monospace" font-size="13"><tspan fill="#8b949e">* </tspan><tspan fill="#56d364">[2026] </tspan><tspan fill="#e6edf3">Automated Trigoscope to UKG data migration</tspan></text></g>
+  <g class="l13"><text x="30" y="404" font-family="'Courier New',Courier,monospace" font-size="13"><tspan fill="#8b949e">* </tspan><tspan fill="#56d364">[2026] </tspan><tspan fill="#e6edf3">Optimized CA regional quality inspection workflows</tspan></text></g>
+  <g class="l18"><text x="30" y="526" font-family="'Courier New',Courier,monospace" font-size="13"><tspan fill="#3fb950">$</tspan><tspan fill="#e6edf3"> </tspan></text></g>
+  <rect class="cur" x="44" y="514" width="8" height="14" fill="#e6edf3"/>
+  <rect y="548" width="800" height="32" fill="#161b22" rx="10"/>
+  <text x="20" y="570" fill="#8b949e" font-size="11" font-family="'Courier New',Courier,monospace">status: active</text>
+  <text x="400" y="570" text-anchor="middle" fill="#3fb950" font-size="11" font-family="'Courier New',Courier,monospace">● OPERATIONAL</text>
+  <text x="780" y="570" text-anchor="end" fill="#8b949e" font-size="11" font-family="'Courier New',Courier,monospace">location: CA</text>
+  <rect width="800" height="580" fill="url(#scan)" rx="10"/>
+</svg>
